@@ -1,0 +1,9 @@
+CUDA:
+    Time: 0.227296ms
+
+    Pi = 3.14159 
+
+Sequential:
+    Time: 24ms
+
+    Pi = 3.1416% 
